@@ -1,10 +1,9 @@
 ---
 layout: home
 ---
-# About Theme
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+# About Me
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
+I'm a front-end developer from Toronto, who is proficient with React.js. My primary focus is on developing user interface components and implementing them following well-known React.js workflows (such as Flux or Redux). I ensure that these components and the overall application are robust and easy to maintain. Commitment to sophisticated design, and quality product is my priority when producing software.
 
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+[Résumé](https://docs.google.com/document/d/1vFx60y7vPM7YHrR4Oyxs76qI6cQwLH6sGFftgwzB8qU/edit?usp=sharing)
