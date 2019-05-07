@@ -4,6 +4,6 @@ layout: home
 
 # About Me
 
-I'm a front-end developer from Toronto, who is proficient with React.js. My primary focus is on developing user interface components and implementing them following well-known React.js workflows (such as Flux or Redux). I ensure that these components and the overall application is robust and easy to maintain. Commitment to sophisticated design, and quality product is my priority when producing an application.
+I'm a 23 year old male who has a bachelors degree in computer science and a passion for real estate. I'd like work under a mentor so that i can learn the values of customer loyalty, learn how to provide exceptional customer service, and to feed my growing obsession with this industry.
 
 [Résumé](https://docs.google.com/document/d/1vFx60y7vPM7YHrR4Oyxs76qI6cQwLH6sGFftgwzB8qU/edit?usp=sharing)
